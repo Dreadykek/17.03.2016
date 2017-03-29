@@ -22,4 +22,5 @@ int main() {
     getline(cin, s);
     getline(cin, p);
     cout << lastIn(s, p) << endl;
+    return 0;
 }
